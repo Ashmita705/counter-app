@@ -10,8 +10,8 @@ Interactive counter app with increase, decrease, and reset functionality using J
   ## Preview
 ![Preview](assets/screenshot.png)
 
-## Live Demo
-https://yourusername.github.io/counter-app/
+## Run Locally
+Open index.html in your browser
 
 ## Tech Used
 - HTML
