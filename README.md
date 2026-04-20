@@ -7,6 +7,9 @@ Interactive counter app with increase, decrease, and reset functionality using J
 - Reset count
 - Simple and responsive UI
 
+  ## Preview
+![Preview](assets/screenshot.png)
+
 ## Live Demo
 https://yourusername.github.io/counter-app/
 
